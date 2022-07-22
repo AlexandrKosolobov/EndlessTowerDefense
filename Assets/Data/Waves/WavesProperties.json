@@ -1,0 +1,21 @@
+{
+    "defaultDensity" : {
+        "low" : 1,
+        "medium" : 2,
+        "high" : 4,
+        "veryHigh" : 8
+    },
+    "defaultAmount" : {
+        "few" : 5,
+        "some" : 10,
+        "many" : 20,
+        "army" : 50
+    },
+    "defaultEnemy" : [
+        "circleRed",
+        "circleBlue",
+        "circleYellow",
+        "circleBlack",
+        "circleGreen"
+    ]
+}
